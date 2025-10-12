@@ -1,6 +1,6 @@
-PImage[] cautionImages = new PImage[6]; // for load image
+PImage[] cautionImages = new PImage[6];
 PImage backgroundImage;
-ArrayList<CautionLine> cautionLines = new ArrayList<CautionLine>(); // for generate
+ArrayList<CautionLine> cautionLines = new ArrayList<CautionLine>();
 int maxCautionLines = 40; 
 float frameInterval = 5; // Initial interval to generate new caution lines
 float timer = 0; // control line generation
@@ -122,3 +122,4 @@ class CautionLine {
     return abs(localX) < length / 2 && abs(localY) < wid / 2;
   }
 }
+

@@ -1,6 +1,23 @@
 This is an interactive art composed of programming and drawing. 
+
+
 The art show a person experiencing low spirits, gradually withdrawing and closing off their inner world. 
-<img width="755" height="509" alt="image" src="https://github.com/user-attachments/assets/c686f972-0def-4c45-83cc-d256b2a0e4dd" />
+
+<img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
+
+
 User should help to touch the appeared caution line until it have not generate a new caution line.
+
+
+<img width="1033" height="453" alt="image" src="https://github.com/user-attachments/assets/bd3bcc09-e9ed-495a-a570-d24ae046a6a3" />
+
+
+
 If you stop to help him, you may not see him again.
+
+Bad ending...
+
+
+<img width="662" height="496" alt="image" src="https://github.com/user-attachments/assets/247df2c9-e0af-4daa-ab22-e5b814a40ba4" />
+
 

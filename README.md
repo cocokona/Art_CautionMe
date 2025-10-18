@@ -1,4 +1,3 @@
-This is an interactive art composed of programming and drawing. 
 
 
 # Art — Caution Me
@@ -11,6 +10,7 @@ The art show a person experiencing low spirits, gradually withdrawing and closin
 <img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
 
 
+## How to experience the work
 User should help to touch the appeared caution line until it have not generate a new caution line.
 
 
@@ -26,3 +26,5 @@ Bad ending...
 <img width="662" height="496" alt="image" src="https://github.com/user-attachments/assets/247df2c9-e0af-4daa-ab22-e5b814a40ba4" />
 
 
+
+I hope you can pay more attention to those around you in the future.

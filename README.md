@@ -1,7 +1,7 @@
 
 
 # Art — Caution Me
-A small collection of artworks and interactive pieces. Browse, play, and explore — deeper meanings and process notes are linked below.
+A small collection of artworks and interactive pieces like a mini game. Browse, play, and explore — deeper meanings and process notes are linked below.
 
 
 
@@ -28,5 +28,6 @@ Bad ending...
 
 Happy ending...
 
+ (Play and get by yourself)
 
 I hope you can pay more attention to these people around you in the future.

@@ -38,3 +38,11 @@ Happy ending...
  (Play and get by yourself)
 
 Hope you can pay more attention to these people around you in the future.
+
+## More about it - Animate
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e82c2855-c4ba-465b-992a-9252bfdb3ab2" />
+
+You can watch in this link:
+
+https://drive.google.com/file/d/17WBQzowpQrytTfLuN9UXlBSAZi3tDjxn/view?usp=sharing

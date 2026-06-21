@@ -14,8 +14,8 @@ Java
 
 
 ## How to open the game
-Download "Processing" and upload all the file.
-
+Chocie 1: Download "Processing" and upload all the file in main.
+Choice 2: Click https://cocokona.github.io/MiniGame-CautionMe/
 
 ## How to experience the work
 User should help to touch the appeared caution line until it have not generate a new caution line.

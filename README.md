@@ -1,6 +1,6 @@
 
 
-# Art — Caution Me
+# Caution Me
 A small collection of artworks and interactive pieces like a mini game. Browse, play, and explore — deeper meanings and process notes are linked below.
 
 

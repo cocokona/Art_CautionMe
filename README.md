@@ -16,6 +16,8 @@ Java
 ## How to open the game
 Chocie 1: Download "Processing" and upload all the file in main.
 
+
+
 Choice 2: Click https://cocokona.github.io/MiniGame-CautionMe/
 
 ## How to experience the work

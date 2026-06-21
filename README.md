@@ -9,9 +9,6 @@ The art show a person experiencing low spirits, gradually withdrawing and closin
 
 <img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
 
-## Programming Language
-Java
-
 
 ## How to open the game
 Chocie 1: Download "Processing" and upload all the file in main.
@@ -19,6 +16,13 @@ Chocie 1: Download "Processing" and upload all the file in main.
 
 
 Choice 2: Click https://cocokona.github.io/MiniGame-CautionMe/
+
+
+
+## Programming Language
+html, js
+
+
 
 ## How to experience the work
 User should help to touch the appeared caution line until it have not generate a new caution line.

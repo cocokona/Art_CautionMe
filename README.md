@@ -11,11 +11,9 @@ The art show a person experiencing low spirits, gradually withdrawing and closin
 
 
 ## How to open the game
-Chocie 1: Download "Processing" and upload all the file in main.
 
 
-
-Choice 2: Click https://cocokona.github.io/MiniGame-CautionMe/
+Click https://cocokona.github.io/MiniGame-CautionMe/
 
 
 
